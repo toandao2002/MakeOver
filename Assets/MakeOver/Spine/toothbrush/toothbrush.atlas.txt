@@ -1,0 +1,13 @@
+toothbrush.png
+size:512,512
+filter:Linear,Linear
+pma:true
+brush
+bounds:2,26,181,277
+offsets:0,1,181,278
+toothpaste 1
+bounds:185,42,80,261
+toothpaste 2
+bounds:267,273,25,30
+toothpaste 3
+bounds:2,2,45,22

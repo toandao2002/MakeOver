@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68693916c3dabb44e92a0497193f6882, type: 3}
+  m_Name: SoundConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  listBgm:
+  - name: Home
+    track: {fileID: 8300000, guid: 100299973f1cfc94ca77f47b37180041, type: 3}
+  - name: Level 1
+    track: {fileID: 8300000, guid: a4ad0392c791e284a8953b2a968c732c, type: 3}
+  - name: Level 2
+    track: {fileID: 8300000, guid: 79bf275765d7a70488b1bf9438307873, type: 3}
+  - name: Level 3
+    track: {fileID: 8300000, guid: a4ad0392c791e284a8953b2a968c732c, type: 3}
+  listSfx:
+  - audioClip: {fileID: 8300000, guid: 036488b64c37f884da71f13290da68db, type: 3}
+    typeSound: 5
+  - audioClip: {fileID: 8300000, guid: fa93d04e107084646b585c2126c8d837, type: 3}
+    typeSound: 4
+  - audioClip: {fileID: 8300000, guid: ac6eba532e59ffc4cb53ce3fd2a320d5, type: 3}
+    typeSound: 3
+  - audioClip: {fileID: 8300000, guid: ec84ecaf690f50041bff29f4923d1b39, type: 3}
+    typeSound: 6
+  - audioClip: {fileID: 8300000, guid: 6a1a7db9e622a784da337a3b3d3666bd, type: 3}
+    typeSound: 7
+  - audioClip: {fileID: 8300000, guid: 531aec4524a2c5542a7434f800cbe9bd, type: 3}
+    typeSound: 8
+  - audioClip: {fileID: 8300000, guid: 833620b0f7ea2c24c8b2a1fc0b68b4fa, type: 3}
+    typeSound: 9
+  - audioClip: {fileID: 8300000, guid: e592f595813944846a81cecf757c815e, type: 3}
+    typeSound: 0
+  - audioClip: {fileID: 8300000, guid: 3465004066aa7aa4ca86d46f58ee88dc, type: 3}
+    typeSound: 1
+  - audioClip: {fileID: 8300000, guid: 3465004066aa7aa4ca86d46f58ee88dc, type: 3}
+    typeSound: 2
+  - audioClip: {fileID: 8300000, guid: 1a16d95fa1ffe3b4799c5f3f0574eed0, type: 3}
+    typeSound: 10
+  - audioClip: {fileID: 8300000, guid: 5fed38f38e80df74094e6ddb75ce66e3, type: 3}
+    typeSound: 11
+  - audioClip: {fileID: 8300000, guid: 1a16d95fa1ffe3b4799c5f3f0574eed0, type: 3}
+    typeSound: 12
+  - audioClip: {fileID: 8300000, guid: e927e83a1238675459b2cf935539d689, type: 3}
+    typeSound: 13
+  - audioClip: {fileID: 8300000, guid: a62eb2ebd60ff5646a52a2bdb9c4b058, type: 3}
+    typeSound: 14
+  - audioClip: {fileID: 8300000, guid: f064685b2dc699945a52b06b34814f64, type: 3}
+    typeSound: 15
+  - audioClip: {fileID: 8300000, guid: 6ff5770bcc0ec7748bea236d51d1fda4, type: 3}
+    typeSound: 16
+  - audioClip: {fileID: 8300000, guid: b33595e70622fd84a9a8ffad1c221501, type: 3}
+    typeSound: 17
+  - audioClip: {fileID: 8300000, guid: 6b6fce8b664ff0341a3ca3302ae2e78f, type: 3}
+    typeSound: 18
+  - audioClip: {fileID: 8300000, guid: fe0b15e5bb54d3649baff8954113a35e, type: 3}
+    typeSound: 19
+  - audioClip: {fileID: 8300000, guid: b3369bb9650f25f4ba06caf88b923143, type: 3}
+    typeSound: 20
+  - audioClip: {fileID: 8300000, guid: 1497fca2cd0dd2940b55963288a845bc, type: 3}
+    typeSound: 21
+  - audioClip: {fileID: 8300000, guid: d534f1665e424bd489b7096f6d369996, type: 3}
+    typeSound: 23
+  - audioClip: {fileID: 8300000, guid: 4f537874ce71f3544a2e38ff757817ac, type: 3}
+    typeSound: 22
+  - audioClip: {fileID: 8300000, guid: ca20794b29592a84aaa989dfceede0f3, type: 3}
+    typeSound: 24
+  - audioClip: {fileID: 8300000, guid: c669b8121e7edfe47b39ddbd1b862684, type: 3}
+    typeSound: 25
+  - audioClip: {fileID: 8300000, guid: afb9969461158364aa1441e2aaf8b6f1, type: 3}
+    typeSound: 26
+  - audioClip: {fileID: 8300000, guid: 4f21df4962b1b504e9da4a9ec6abe3c3, type: 3}
+    typeSound: 27
+  - audioClip: {fileID: 8300000, guid: f3dc099ac30e1b742a9f1deb35b08da0, type: 3}
+    typeSound: 28
+  - audioClip: {fileID: 8300000, guid: b16b5fc9c3bd6a84e98477528cc49b7e, type: 3}
+    typeSound: 29
+  - audioClip: {fileID: 8300000, guid: e16aebb32662f9b418b71a815a49952b, type: 3}
+    typeSound: 30
+  - audioClip: {fileID: 8300000, guid: 9cfc25992a9519947a135f08e0c540bb, type: 3}
+    typeSound: 31
+  - audioClip: {fileID: 8300000, guid: e08d1db65542256469074937d2e8bba2, type: 3}
+    typeSound: 32
+  volumeBgm: 0.5
+  volumeSfx: 1
+  path: Assets/Sounds/SoundFinal

@@ -1,0 +1,6 @@
+garbage.png
+size:256,256
+filter:Linear,Linear
+pma:true
+spider 3
+bounds:2,2,65,77

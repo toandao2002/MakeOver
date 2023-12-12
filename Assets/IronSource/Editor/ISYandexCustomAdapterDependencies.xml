@@ -1,0 +1,19 @@
+<dependencies>
+
+  <androidPackages>
+    <androidPackage spec="com.yandex.android:mobileads:5.6.0">
+      <repositories>
+        <repository>https://android-sdk.is.com/</repository>
+      </repositories>
+    </androidPackage>
+  </androidPackages>
+
+  <androidPackages>
+    <androidPackage spec="com.yandex.ads.adapter:ironsource-mobileads:5.6.0.0">
+      <repositories>
+        <repository>https://maven.google.com/</repository>
+      </repositories>
+    </androidPackage>
+  </androidPackages>
+
+</dependencies>

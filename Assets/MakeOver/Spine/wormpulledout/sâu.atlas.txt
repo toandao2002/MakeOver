@@ -1,0 +1,12 @@
+sâu.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+grub
+bounds:57,22,75,33
+grub hole 2
+bounds:2,2,53,53
+offsets:1,1,60,55
+tweezers 1
+bounds:2,57,196,315
+offsets:0,1,196,316

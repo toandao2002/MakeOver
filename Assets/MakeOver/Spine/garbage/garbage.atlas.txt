@@ -1,0 +1,6 @@
+garbage.png
+size:256,256
+filter:Linear,Linear
+pma:true
+garbage 5
+bounds:2,2,60,89

@@ -1,0 +1,8 @@
+lips.png
+size:256,256
+filter:Linear,Linear
+pma:true
+lips 1(1)
+bounds:2,2,25,12
+tweezers 1
+bounds:2,16,98,155

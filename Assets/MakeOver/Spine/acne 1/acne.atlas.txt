@@ -1,0 +1,24 @@
+acne.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+ance 1
+bounds:70,13,7,7
+ance 2
+bounds:54,4,14,16
+ance 2 copy
+bounds:37,2,15,18
+ance 2 copy 2
+bounds:71,72,24,25
+offsets:0,0,27,25
+ance 2 copy 3
+bounds:71,99,37,30
+rotate:90
+big ance
+bounds:2,5,33,15
+cotton swab
+bounds:2,138,81,113
+needle
+bounds:2,22,67,114
+offsets:0,0,68,114

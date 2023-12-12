@@ -1,0 +1,8 @@
+brush.png
+size:256,256
+filter:Linear,Linear
+pma:true
+check brush
+bounds:126,124,78,91
+compact brush
+bounds:2,2,122,213
